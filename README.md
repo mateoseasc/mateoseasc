@@ -46,6 +46,6 @@ Soy un estudiante de **Inteligencia Artificial**  Me encanta resolver problemas 
 
 ### 🔥 Mis Estadísticas en GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoseasc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
