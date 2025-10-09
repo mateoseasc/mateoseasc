@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Mateo Serrato 👋
 
 <a href="https://www.linkedin.com/in/tu-usuario/">
   <img align="left" alt="Mi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,18 +9,13 @@
 <br />
 <br />
 
-Soy un estudiante de **Inteligencia Artificial** apasionado por el Machine Learning y el análisis de datos. Me encanta resolver problemas complejos y siempre estoy buscando aprender nuevas tecnologías. 
-
-La disciplina que aprendo en el gimnasio y en el tatami de jiu-jitsu la aplico también para escribir código limpio y eficiente.
+Soy un estudiante de **Inteligencia Artificial**  Me encanta resolver problemas complejos y siempre estoy buscando aprender. 
 
 ---
 
 ### 🚀 Sobre Mí
 
-* 🎓 Actualmente estudiando Ingeniería en IA en [Tu Universidad].
-* 🌱 Aprendiendo sobre Redes Neuronales Profundas y Procesamiento de Lenguaje Natural.
-* 💡 Interesado en proyectos relacionados con Visión por Computadora y Modelos Generativos.
-* 📫 Cómo contactarme: [tu.email@ejemplo.com]
+* 🎓 Actualmente estudiando Ingeniería en IA en Universidad Iberoamericana de León.
 
 ---
 
