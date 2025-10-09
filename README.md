@@ -1,15 +1,12 @@
 # ¡Hola! Soy Mateo Serrato 👋
 
-<a href="https://www.linkedin.com/in/tu-usuario/">
+<a href="https://www.linkedin.com/in/mateo-serrato-ascencio-39a7aa33b">
   <img align="left" alt="Mi LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/tu-usuario">
-  <img align="left" alt="Mi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
 <br />
 
-Soy un estudiante de **Inteligencia Artificial**  Me encanta resolver problemas complejos y siempre estoy buscando aprender. 
+Soy un estudiante de **Inteligencia Artificial** Me encanta resolver problemas complejos y siempre estoy buscando aprender. 
 
 ---
 
