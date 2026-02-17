@@ -1,9 +1,8 @@
 <!-- Banner / Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mateo;AI+Engineer&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Mateo;AI+Engineer&center=true&size=50">
 </p>
 
-<h1 align="center">Mateo</h1>
 
 <p align="center">
 AI Engineer focused on ML|Recommender Systems|Data Analysis
