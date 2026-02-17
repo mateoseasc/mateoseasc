@@ -1,27 +1,20 @@
-# Hi, I'm Mateo 👋
+# Mateo
 
-AI Engineering Student | Recommender Systems | Machine Learning
+AI Engineer | Machine Learning
 
-## 🚀 About me
+## About Me
 
-- Building recommender systems
-- Interested in Graph ML
-- Python, ML, Data Science
+Passionate about building intelligent systems
 
-## 🧠 Current Projects
+## Tech Stack
 
-- Wine recommender system
-- Graph-based recommendation engine
+Python, Machine Learning, Recommender Systems
 
-## ⚙️ Tech Stack
+## Projects
 
-Python, Numpy, Pandas, Sklearn, PyTorch
+Wine Recommender
+Graph Recommender
 
-## 📊 GitHub Stats
+## Stats
 
-(aquí van los stats visuales)
-
-## 📫 Contact
-
-LinkedIn
-Email
+(stats images here)
