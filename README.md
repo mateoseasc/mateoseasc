@@ -74,9 +74,6 @@
 ## Contact
 
 <p align="center">
-
-LinkedIn: www.linkedin.com/in/TU-LINK
-
-Email: tuemail@email.com
+Email: mateo.serratoas@gmail.com
 
 </p>
