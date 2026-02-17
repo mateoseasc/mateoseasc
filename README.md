@@ -1,6 +1,6 @@
 <!-- Banner / Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mateo;AI+Engineer;Recommender+Systems;Graph+Machine+Learning&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mateo;AI+Engineer&center=true&size=30">
 </p>
 
 <h1 align="center">Mateo</h1>
