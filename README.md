@@ -1,20 +1,86 @@
-# Mateo
+<!-- Banner / Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mateo+Seasc;AI+Engineer;Recommender+Systems;Graph+Machine+Learning&center=true&size=30">
+</p>
 
-AI Engineer | Machine Learning
+<h1 align="center">Mateo Seasc</h1>
+
+<p align="center">
+AI Engineer focused on Recommender Systems and Machine Learning
+</p>
+
+---
 
 ## About Me
 
-Passionate about building intelligent systems
+- Building real-world recommendation systems
+- Focused on Graph ML and similarity-based models
+- Strong Python and Machine Learning foundation
+- Constantly improving and shipping projects
+
+---
 
 ## Tech Stack
 
-Python, Machine Learning, Recommender Systems
+<p align="center">
 
-## Projects
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-Wine Recommender
-Graph Recommender
+</p>
 
-## Stats
+---
 
-(stats images here)
+## Current Projects
+
+**Wine Recommender System**
+
+- Cosine similarity recommendation engine
+- PCA feature optimization
+- Real dataset implementation
+
+**Graph-Based Recommender System**
+
+- Weighted interaction graph
+- Graph-based recommendation design
+- Future Graph ML integration
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mateoseasc&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoseasc&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateoseasc&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+
+LinkedIn: www.linkedin.com/in/TU-LINK
+
+Email: tuemail@email.com
+
+</p>
