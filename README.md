@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mateo+Seasc;AI+Engineer;Recommender+Systems;Graph+Machine+Learning&center=true&size=30">
 </p>
 
-<h1 align="center">Mateo Seasc</h1>
+<h1 align="center">Mateo</h1>
 
 <p align="center">
 AI Engineer focused on Recommender Systems and Machine Learning
