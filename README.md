@@ -1,6 +1,6 @@
 <!-- Banner / Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Mateo;AI+Engineer&center=true&size=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Mateo;AI+Engineer&center=true&size=30">
 </p>
 
 
