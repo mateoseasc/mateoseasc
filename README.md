@@ -59,15 +59,12 @@
 
 </p>
 
----
-
-## GitHub Streak
+## Coding Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateoseasc&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://wakatime.com/share/@mateoseasc/widget.svg" height="180"/>
 </p>
+
 
 ---
 
