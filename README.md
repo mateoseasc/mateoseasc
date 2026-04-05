@@ -70,6 +70,12 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
   </a>
 </p>
 
+## Coding Activity
+
+<p align="center">
+  <img src="wakatime/stats.svg?v=1" height="300"/>
+</p>
+
 ---
 
 <p align="center">
