@@ -66,12 +66,6 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
   <img src="wakatime/stats.svg?v=1" width="700"/>
 </p>
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateoseasc&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ## Contributions
 
 <p align="center">
