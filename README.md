@@ -19,7 +19,7 @@
 AI Engineering student at Universidad Iberoamericana León, building real-world ML products for clients. I work at the intersection of recommendation systems, NLP, and practical AI deployment.
 
 - Designing and shipping ML systems for real clients — not just coursework
-- Currently building **REMEVI**, a Mexican wine recommendation engine using BERT + cosine similarity
+- Currently building a wine recommendation engine using BERT + cosine similarity
 - Interested in LLM integration, similarity-based models, and turning notebooks into production APIs
 - Practicing jiujitsu and applying the same discipline to engineering
 
@@ -45,8 +45,8 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 
 ## Current Projects
 
-**🍷 REMEVI — Mexican Wine Recommendation Engine**
-> Real client project. Recommendation system using BERT embeddings + cosine similarity to match sensory profiles of Mexican wines. Deployed frontend at [remevi.surge.sh](https://remevi.surge.sh).
+**🍷 Wine Recommendation Engine**
+> Real client project. Recommendation system using BERT embeddings + cosine similarity to match sensory profiles of Mexican wines.
 - NLP pipeline with BERT for tasting notes
 - PCA / UMAP for dimensionality reduction
 - 99 aromatic descriptors grouped into 14 semantic categories
@@ -59,15 +59,15 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateoseasc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=mateoseasc&theme=tokyonight&hide_border=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoseasc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoseasc&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ## Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateoseasc&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateoseasc&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
