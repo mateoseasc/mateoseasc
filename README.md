@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/Email-mateo.serratoas%40gmail.com-0D1117?style=flat&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/mateo-serrato-39a7aa33b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mateo%20Serrato-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mateoseasc&style=flat&color=58A6FF&label=Profile+Views" />
 </p>
 
@@ -60,6 +64,18 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 
 <p align="center">
   <img src="wakatime/stats.svg?v=1" width="700"/>
+</p>
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mateoseasc&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateoseasc/mateoseasc/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
