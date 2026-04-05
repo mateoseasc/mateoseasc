@@ -28,13 +28,16 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgresql,git,github,vscode" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,jupyter,git,github,vscode" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000" />
   &nbsp;
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" />
   &nbsp;
