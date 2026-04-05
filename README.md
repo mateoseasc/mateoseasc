@@ -49,13 +49,10 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 ## Current Projects
 
 **🍷 Wine Recommendation Engine**
-> Real client project. Recommendation system using BERT embeddings + cosine similarity to match sensory profiles of Mexican wines.
+> Client project. Recommendation system using BERT embeddings + cosine similarity to match sensory profiles of Mexican wines.
 - NLP pipeline with BERT for tasting notes
 - PCA / UMAP for dimensionality reduction
 - 99 aromatic descriptors grouped into 14 semantic categories
-
-**📊 AI API Pricing Dynamics**
-> Econometrics research analyzing pricing behavior across AI API providers through a game theory lens — Nash equilibrium and Prisoner's Dilemma applied to the LLM market.
 
 ---
 
