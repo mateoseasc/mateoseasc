@@ -1,76 +1,77 @@
-<!-- Banner / Typing -->
+# Mateo Serrato
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Mateo;AI+Engineer&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;ML+Consultant;Building+real+AI+products&center=true&size=26&width=500&color=58A6FF&pause=1000" />
+</p>
+
+<p align="center">
+  <a href="mailto:mateo.serratoas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mateo.serratoas%40gmail.com-0D1117?style=flat&logo=gmail&logoColor=EA4335" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mateoseasc&style=flat&color=58A6FF&label=Profile+Views" />
 </p>
 
 ---
 
 ## About Me
 
-- Curious and passionate about learning and solving problems
-- Enjoy designing algorithms and workflow processes, mainly in Python
-- Building real-world recommendation systems
-- Focused on Graph ML and similarity-based models
-- Strong Python and Machine Learning foundation
-- Enjoy practicing Jiujitsu and staying disciplined in personal growth
-- Constantly improving and shipping projects
+AI Engineering student at Universidad Iberoamericana León, building real-world ML products for clients. I work at the intersection of recommendation systems, NLP, and practical AI deployment.
+
+- Designing and shipping ML systems for real clients — not just coursework
+- Currently building **REMEVI**, a Mexican wine recommendation engine using BERT + cosine similarity
+- Interested in LLM integration, similarity-based models, and turning notebooks into production APIs
+- Practicing jiujitsu and applying the same discipline to engineering
+
 ---
 
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://skillicons.dev/icons?i=numpy" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,jupyter,git,github,vscode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=000" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ## Current Projects
 
-**Recommender System**
+**🍷 REMEVI — Mexican Wine Recommendation Engine**
+> Real client project. Recommendation system using BERT embeddings + cosine similarity to match sensory profiles of Mexican wines. Deployed frontend at [remevi.surge.sh](https://remevi.surge.sh).
+- NLP pipeline with BERT for tasting notes
+- PCA / UMAP for dimensionality reduction
+- 99 aromatic descriptors grouped into 14 semantic categories
 
-- Cosine similarity recommendation engine
-- PCA feature optimization
-- Real implementation
-
-**Graph-Based Recommender System**
-
-- Weighted interaction graph
-- Graph-based recommendation design
-- Future Graph ML integration
+**📊 AI API Pricing Dynamics**
+> Econometrics research analyzing pricing behavior across AI API providers through a game theory lens — Nash equilibrium and Prisoner's Dilemma applied to the LLM market.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mateoseasc&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoseasc&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mateoseasc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoseasc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
-## Coding Stats
+## Coding Activity
 
 <p align="center">
-  <img src="https://wakatime.com/share/@mateoseasc/widget.svg" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateoseasc&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 
 ---
 
-## Contact
-
 <p align="center">
-Email: mateo.serratoas@gmail.com
-
+  <i>Building at the edge of what's possible with AI — one real project at a time.</i>
 </p>
