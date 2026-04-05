@@ -59,15 +59,15 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mateoseasc&theme=tokyonight&hide_border=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoseasc&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=mateoseasc&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateoseasc&theme=tokyonight&hide_border=true" />
+  <a href="https://wakatime.com/@mateoseasc">
+    <img src="https://wakatime.com/badge/user/mateoseasc.svg?style=flat" />
+  </a>
 </p>
 
 ---
