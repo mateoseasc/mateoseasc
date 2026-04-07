@@ -401,7 +401,7 @@
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.17" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.55" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="624" y="12" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#c9d1d9" font-family="Calibri">Less</text>
@@ -418,19 +418,19 @@
       <text font-family="Calibri" x="132.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in Python</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="46.5" width="115" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">69:16    |    89.7%</text>
-<text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="70.5" width="5.364040965551419" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="86.36404096555142" y="79.5" font-size="9" fill="#c9d1d9">03:13    |    4.2%</text>
-<text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSV</text>
-<rect x="75" y="94.5" width="5.318233237111112" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="86.31823323711112" y="103.5" font-size="9" fill="#c9d1d9">03:12    |    4.1%</text>
+<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">70:47    |    88.2%</text>
+<text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSV</text>
+<rect x="75" y="70.5" width="6.944952725778027" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="87.94495272577802" y="79.5" font-size="9" fill="#c9d1d9">04:16    |    5.3%</text>
+<text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
+<rect x="75" y="94.5" width="5.956285419154744" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="86.95628541915474" y="103.5" font-size="9" fill="#c9d1d9">03:39    |    4.6%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Git Config</text>
-<rect x="75" y="118.5" width="1.4654945705231284" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="82.46549457052313" y="127.5" font-size="9" fill="#c9d1d9">52m    |    1.1%</text>
+<rect x="75" y="118.5" width="1.434185779880097" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="82.4341857798801" y="127.5" font-size="9" fill="#c9d1d9">52m    |    1.1%</text>
 <text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">HTML</text>
-<rect x="75" y="142.5" width="1.094954796950776" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="82.09495479695077" y="151.5" font-size="9" fill="#c9d1d9">39m    |    0.9%</text>
-      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 74 hrs 44 mins</text>
+<rect x="75" y="142.5" width="1.112199672679844" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="82.11219967267985" y="151.5" font-size="9" fill="#c9d1d9">41m    |    0.9%</text>
+      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 77 hrs 24 mins</text>
     </g>
 </svg>
