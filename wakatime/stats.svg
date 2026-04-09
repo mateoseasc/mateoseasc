@@ -401,8 +401,8 @@
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.55" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.31" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="624" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.53" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="624" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.33" stroke="#c9d1d9" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#c9d1d9" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.1"/>
@@ -418,19 +418,19 @@
       <text font-family="Calibri" x="132.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in Python</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="46.5" width="115" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">72:04    |    88.1%</text>
+<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">72:04    |    86.3%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSV</text>
 <rect x="75" y="70.5" width="6.821536270102402" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="87.8215362701024" y="79.5" font-size="9" fill="#c9d1d9">04:16    |    5.2%</text>
+<text font-family="Calibri" x="87.8215362701024" y="79.5" font-size="9" fill="#c9d1d9">04:16    |    5.1%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="94.5" width="6.138496320773111" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="87.13849632077311" y="103.5" font-size="9" fill="#c9d1d9">03:50    |    4.7%</text>
-<text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Git Config</text>
-<rect x="75" y="118.5" width="1.4086993391911353" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="82.40869933919113" y="127.5" font-size="9" fill="#c9d1d9">52m    |    1.1%</text>
-<text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">HTML</text>
-<rect x="75" y="142.5" width="1.0992741430462338" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="82.09927414304623" y="151.5" font-size="9" fill="#c9d1d9">41m    |    0.8%</text>
-      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 78 hrs 41 mins</text>
+<rect x="75" y="94.5" width="6.2129585649099806" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="87.21295856490998" y="103.5" font-size="9" fill="#c9d1d9">03:53    |    4.7%</text>
+<text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
+<rect x="75" y="118.5" width="3.624924873396167" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="84.62492487339617" y="127.5" font-size="9" fill="#c9d1d9">02:16    |    2.7%</text>
+<text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">Git Config</text>
+<rect x="75" y="142.5" width="1.6338718357780992" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="82.6338718357781" y="151.5" font-size="9" fill="#c9d1d9">01:01    |    1.2%</text>
+      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 81 hrs 36 mins</text>
     </g>
 </svg>
