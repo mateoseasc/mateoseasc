@@ -20,7 +20,7 @@
     </g>
   <g transform="translate(0, 56) scale(1)">
       <text x="40" y="18" font-size="14" fill="#c9d1d9" font-family="Calibri" font-weight="bold">
-        This year, my most productive month was March
+        This year, my most productive month was April
       </text>
       <g transform="translate(40, 50)">
         <text x="420" y="-6" font-size="10" fill="#c9d1d9" font-family="Calibri">Jan</text>
@@ -401,7 +401,7 @@
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.39" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.32" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.40" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.48" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="624" y="12" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#c9d1d9" font-family="Calibri">Less</text>
@@ -418,19 +418,19 @@
       <text font-family="Calibri" x="132.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in Python</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="46.5" width="115" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">73:14    |    68.4%</text>
+<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">73:46    |    67.5%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
-<rect x="75" y="70.5" width="32.34243711708243" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="113.34243711708243" y="79.5" font-size="9" fill="#c9d1d9">20:35    |    19.2%</text>
+<rect x="75" y="70.5" width="33.60507356218919" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="114.60507356218919" y="79.5" font-size="9" fill="#c9d1d9">21:33    |    19.7%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="94.5" width="11.575305607820356" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="92.57530560782035" y="103.5" font-size="9" fill="#c9d1d9">07:22    |    6.9%</text>
+<rect x="75" y="94.5" width="12.538320544492725" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="93.53832054449272" y="103.5" font-size="9" fill="#c9d1d9">08:02    |    7.4%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSV</text>
-<rect x="75" y="118.5" width="6.712136076380206" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="87.7121360763802" y="127.5" font-size="9" fill="#c9d1d9">04:16    |    4.0%</text>
+<rect x="75" y="118.5" width="6.704619982429806" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="87.7046199824298" y="127.5" font-size="9" fill="#c9d1d9">04:18    |    3.9%</text>
 <text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
-<rect x="75" y="142.5" width="2.546844361427538" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="83.54684436142753" y="151.5" font-size="9" fill="#c9d1d9">01:37    |    1.5%</text>
-      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 104 hrs 2 mins</text>
+<rect x="75" y="142.5" width="2.6417207049698095" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="83.64172070496981" y="151.5" font-size="9" fill="#c9d1d9">01:41    |    1.5%</text>
+      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 105 hrs 58 mins</text>
     </g>
 </svg>
