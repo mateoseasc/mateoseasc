@@ -63,7 +63,7 @@ AI Engineering student at Universidad Iberoamericana León, building real-world 
 ## Coding Activity
 
 <p align="center">
-  <img src="wakatime/stats.svg?v=20260501" width="700"/>
+  <img src="wakatime/stats.svg?v=20260502" width="700"/>
 </p>
 
 ## Contributions
