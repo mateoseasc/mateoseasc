@@ -401,7 +401,7 @@
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.24" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.66" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.30" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#c9d1d9" font-family="Calibri">Less</text>
@@ -418,19 +418,19 @@
       <text font-family="Calibri" x="132.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in Python</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="46.5" width="115" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">79:48    |    52.0%</text>
+<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">80:35    |    52.1%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
-<rect x="75" y="70.5" width="76.95243925242167" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="157.95243925242167" y="79.5" font-size="9" fill="#c9d1d9">53:24    |    34.8%</text>
+<rect x="75" y="70.5" width="77.0418166669846" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="158.0418166669846" y="79.5" font-size="9" fill="#c9d1d9">53:59    |    34.9%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="94.5" width="15.12898772750951" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="96.12898772750951" y="103.5" font-size="9" fill="#c9d1d9">10:29    |    6.8%</text>
+<rect x="75" y="94.5" width="14.982513347987933" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="95.98251334798793" y="103.5" font-size="9" fill="#c9d1d9">10:29    |    6.8%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
-<rect x="75" y="118.5" width="7.125793010087416" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="88.12579301008742" y="127.5" font-size="9" fill="#c9d1d9">04:56    |    3.2%</text>
+<rect x="75" y="118.5" width="7.123850884219943" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="88.12385088421995" y="127.5" font-size="9" fill="#c9d1d9">04:59    |    3.2%</text>
 <text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSV</text>
-<rect x="75" y="142.5" width="6.80416360447872" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="87.80416360447872" y="151.5" font-size="9" fill="#c9d1d9">04:43    |    3.1%</text>
-      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 149 hrs 21 mins</text>
+<rect x="75" y="142.5" width="6.738287707156315" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="87.73828770715632" y="151.5" font-size="9" fill="#c9d1d9">04:43    |    3.1%</text>
+      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 150 hrs 46 mins</text>
     </g>
 </svg>
