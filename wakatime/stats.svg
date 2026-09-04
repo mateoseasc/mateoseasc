@@ -401,7 +401,7 @@
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.21" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.47" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.12" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#c9d1d9" font-family="Calibri">Less</text>
@@ -418,13 +418,13 @@
         <text font-family="Calibri" x="132.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in Python</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="46.5" width="115" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">99:26    |    42.0%</text>
+<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">99:26    |    41.9%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
 <rect x="75" y="70.5" width="108.22195583072167" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="189.22195583072167" y="79.5" font-size="9" fill="#c9d1d9">93:34    |    39.5%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="94.5" width="27.15511634870148" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="108.15511634870148" y="103.5" font-size="9" fill="#c9d1d9">23:28    |    9.9%</text>
+<rect x="75" y="94.5" width="27.30499033174114" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="108.30499033174114" y="103.5" font-size="9" fill="#c9d1d9">23:36    |    10.0%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
 <rect x="75" y="118.5" width="17.33832484505642" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="98.33832484505642" y="127.5" font-size="9" fill="#c9d1d9">14:59    |    6.3%</text>
