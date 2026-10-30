@@ -401,8 +401,8 @@
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.12" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
-<rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.10" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.29" stroke="#c9d1d9" stroke-width="0.5" />
+<rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.11" stroke="#c9d1d9" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#c9d1d9" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#58a6ff" fill-opacity="0.1"/>
@@ -418,19 +418,19 @@
         <text font-family="Calibri" x="132.5" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in Python</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="46.5" width="115" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">100:21    |    41.8%</text>
+<text font-family="Calibri" x="196" y="55.5" font-size="9" fill="#c9d1d9">101:38    |    42.1%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
-<rect x="75" y="70.5" width="108.25365891503442" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="189.2536589150344" y="79.5" font-size="9" fill="#c9d1d9">94:27    |    39.3%</text>
+<rect x="75" y="70.5" width="106.87905838237582" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="187.87905838237583" y="79.5" font-size="9" fill="#c9d1d9">94:27    |    39.1%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Other</text>
-<rect x="75" y="94.5" width="28.34100173954532" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="109.34100173954532" y="103.5" font-size="9" fill="#c9d1d9">24:43    |    10.3%</text>
+<rect x="75" y="94.5" width="27.981128858778913" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="108.98112885877892" y="103.5" font-size="9" fill="#c9d1d9">24:43    |    10.2%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
-<rect x="75" y="118.5" width="17.25645640298796" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="98.25645640298796" y="127.5" font-size="9" fill="#c9d1d9">15:03    |    6.3%</text>
+<rect x="75" y="118.5" width="17.037334625478668" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="98.03733462547866" y="127.5" font-size="9" fill="#c9d1d9">15:03    |    6.2%</text>
 <text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSV</text>
-<rect x="75" y="142.5" width="6.339130522300168" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="87.33913052230017" y="151.5" font-size="9" fill="#c9d1d9">05:31    |    2.3%</text>
-      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 228 hrs 58 mins</text>
+<rect x="75" y="142.5" width="6.258636502237664" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="87.25863650223766" y="151.5" font-size="9" fill="#c9d1d9">05:31    |    2.3%</text>
+      <text font-family="Calibri" x="132.5" y="186.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 230 hrs 15 mins</text>
       </g>
 </svg>
